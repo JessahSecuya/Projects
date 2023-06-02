@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684986032 source:o:\documents\vscode\robot proj\main.c
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+
