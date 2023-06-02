@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685673236 source:o:\documents\vscode\number system converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<windows.h>
+
